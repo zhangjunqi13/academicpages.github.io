@@ -14,6 +14,6 @@ Recent Professional Activities
 ======
 * Our paper ***"Relevance Estimation with Multiple Information Sources on Search Engine Result Pages"*** won the **Best Overall Paper** at [CIKM 2018](http://www.cikm2018.units.it)!
 
-Pub
+Publications
 ======
 * ***Junqi Zhang***, Yiqun Liu, Shaoping Ma, Qi Tian. Relevance Estimation with Multiple Information Sources on Search Engine Result Pages. The 27th ACM International Conference on Information and Knowledge Management (**CIKM 2018 Best Overall Paper**).
