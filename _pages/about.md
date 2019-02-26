@@ -17,4 +17,4 @@ Recent Professional Activities
 Publications
 ======
 * ***Junqi Zhang***. Listwise v.s. Pagewise: Towards Better Ranking Strategies for Heterogeneous Search Results. The 12th ACM International Conference on Web Search and Data Mining (**WSDM 2019 Doctoral Consortium**).
-* ***Junqi Zhang***, Yiqun Liu, Shaoping Ma, Qi Tian. Relevance Estimation with Multiple Information Sources on Search Engine Result Pages. The 27th ACM International Conference on Information and Knowledge Management (**CIKM 2018 Best Overall Paper**).
+* ***Junqi Zhang***, Yiqun Liu, Shaoping Ma, Qi Tian. Relevance Estimation with Multiple Information Sources on Search Engine Result Pages. The 27th ACM International Conference on Information and Knowledge Management (**CIKM 2018 Best Overall Paper**). [Preprint Version.](http://www.thuir.cn/group/~YQLiu/publications/CIKM18Zhang.pdf) [Datasets.](http://www.thuir.cn/data-srr/)
