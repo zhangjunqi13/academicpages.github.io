@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "张俊祺"
-  avatar           : "profile.png"
+  avatar           : "zhangjunqi.png"
   bio              : "PhD student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
