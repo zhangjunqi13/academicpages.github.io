@@ -22,11 +22,11 @@ Publications
 
 Education
 ======
-* ***Sep. 2017 - Current***, Ph.D., Department of Computer Science and Technology, Tsinghua University.
+* ***Sep. 2017 - Present***, Ph.D., Department of Computer Science and Technology, Tsinghua University.
 * ***Sep. 2013 - Jul. 2017***, B.E., Department of Computer Science and Technology, Tsinghua University.
 
 Experiences
 ======
-* ***Nov. 2018 - Current***, Internship, Huawei Noah’s Ark Lab.
+* ***Nov. 2018 - Present***, Internship, Huawei Noah’s Ark Lab.
 * ***Feb. 2019***, WSDM 2019 Doctoral Consortium.
 * ***Jun. 2018 - Sep. 2018***, Visiting student, NExT++ Research Center, National University of Singapore.
